@@ -1,9 +1,9 @@
 {
-    "name": "andersondrosa/strhandler",
+    "name": "andersondrosa/stringhandler",
     "type": "library",
     "description": "Gerenciador de dados em camadas.",
     "keywords": ["data", "manager", "layers"],
-    "homepage": "https://github.com/andersondrosa/strhandler",
+    "homepage": "https://github.com/andersondrosa/stringhandler",
     "license": "MIT",
     "authors": [
         {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "AndersonDRosa\\StrHandler\\": "src/"
+            "AndersonDRosa\\StringHandler\\": "src/"
         }
     }
 }
